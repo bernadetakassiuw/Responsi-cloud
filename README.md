@@ -2,9 +2,9 @@
 
 Bangun website data diri sederhana yang terdiri dari dua halaman di Killercoda Ubuntu Playground (Tidak usah terlalu memikirkan soal desain websitenya, yang terpenting dapat menampilkan konten dengan jelas). Gunakan Docker untuk mengelola container, image, network, dan (opsional) volume. Website data diri Anda akan terdiri dari dua halaman sederhana yang di-hosting di container terpisah:
 1. Membuat direktori website-profil
-   '''
+   ***
    mkdir website-profil
-   '''
+   ***
 3. Di dalam direktori website-profil buatkan file index.html
 4. Upload file foto.jpeg ke dalam direktori website-profil
 5. Membuat Docker network
